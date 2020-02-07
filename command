@@ -44,3 +44,9 @@ $ git remote add origin （sekizawaのリポジトリaとか)
 
 ローカルのmasterブランチをpush＆追跡設定する。上記のコマンド後？今いるフォルダが対象？
 $ git push -u origin master
+
+:tabnew 
+新しいタブを作る
+
+:e [tabキー]
+新しいタブにファイルを開く
